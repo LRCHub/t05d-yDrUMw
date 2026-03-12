@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "奇跡",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-12T18:23:28.377389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "奇跡",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/01_奇跡_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "奇跡",
+      "artist": "Koda Kumi",
+      "has_synced": false,
+      "path": "select/02_奇跡_Koda_Kumi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "奇跡",
+      "artist": "Kobukuro",
+      "has_synced": true,
+      "path": "select/03_奇跡_Kobukuro.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "奇跡",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/04_奇跡_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "奇跡 (Eternity)",
+      "artist": "VIXX",
+      "has_synced": true,
+      "path": "select/05_奇跡_(Eternity)_VIXX.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "奇跡",
+      "artist": "シュノーケル",
+      "has_synced": true,
+      "path": "select/06_奇跡_シュノーケル.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "01 - 《奇跡》miracle",
+      "artist": "女子十二樂坊",
+      "has_synced": false,
+      "path": "select/07_01_-_《奇跡》miracle_女子十二樂坊.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "奇跡",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/08_奇跡_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "奇跡",
+      "artist": "東山奈央",
+      "has_synced": true,
+      "path": "select/09_奇跡_東山奈央.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "奇跡 - Kiseki",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/10_奇跡_-_Kiseki_Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "奇跡",
+      "artist": "THE BACK HORN",
+      "has_synced": true,
+      "path": "select/11_奇跡_THE_BACK_HORN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "奇跡",
+      "artist": "伊豆乃風(伊織:CV.内田雄馬/耕平:CV.木村良平/時田:CV.安元洋貴/寿:CV.小西克幸)",
+      "has_synced": true,
+      "path": "select/12_奇跡_伊豆乃風(伊織_CV.内田雄馬_耕平_CV.木村良平_時田_CV.安元洋貴_寿_CV.小西克幸).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "奇跡",
+      "artist": "SNOWKEL",
+      "has_synced": true,
+      "path": "select/13_奇跡_SNOWKEL.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "奇跡",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/14_奇跡_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "奇跡",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_奇跡_amazarashi.txt"
+    }
+  ]
+}
